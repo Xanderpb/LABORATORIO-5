@@ -11,6 +11,9 @@
 ### Objetivo general
 ### objetivos especificos
 ## 2. Marco teorico
+
+![map8 5](https://user-images.githubusercontent.com/93224166/148436127-fe630f39-7583-4297-8372-406397ad453f.png)
+
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
 ### Circuito analizar
@@ -34,8 +37,9 @@
 
 * Laboratorio
 
-![circuitoA,amperaje](https://user-images.githubusercontent.com/93224166/148402011-c5f7c142-a27e-4957-aa2c-bc4b35698e32.png)
 ![circuitoA,voltaje](https://user-images.githubusercontent.com/93224166/148401992-0f4b44d6-1547-4586-884c-d064728009d2.png)
+![circuitoA,amperaje](https://user-images.githubusercontent.com/93224166/148402011-c5f7c142-a27e-4957-aa2c-bc4b35698e32.png)
+
 
 **CIRCUITO B**
 * Analitico
@@ -46,17 +50,20 @@
 
 * Laboratorio
 
-![circuitoB,corriente](https://user-images.githubusercontent.com/93224166/148401997-896fdf16-b894-4504-8c69-70f541df301a.png)
 ![circuitoB,voltaje](https://user-images.githubusercontent.com/93224166/148401998-ae09cce6-67e8-41dc-b652-c3c7243502b7.png)
+![circuitoB,corriente](https://user-images.githubusercontent.com/93224166/148401997-896fdf16-b894-4504-8c69-70f541df301a.png)
 
 
-**Voltaje thevenin**
+
+**Voltaje Thevenin**
 
 ![voltajeTH](https://user-images.githubusercontent.com/93224166/148433163-886be3ba-6361-407b-9962-65d1cf39df4f.png)
+![mvoltajeTh](https://user-images.githubusercontent.com/93224166/148438248-741b640c-3c69-4e06-93e6-db1489a1cc13.png)
 
 ### Calculacion de la resistencia de Thevenin
 ![1](https://user-images.githubusercontent.com/93928146/148095149-e8efa8ac-18f6-4efc-9a3a-91ee48068479.PNG)
 ![resistenciaTH](https://user-images.githubusercontent.com/93224166/148433169-c45779cf-976d-48e6-8473-7ae11d0907fd.png)
+![mcircuitoTH](https://user-images.githubusercontent.com/93224166/148438250-37a9202e-d293-4926-9e65-2e58c9fb5f79.png)
 
 ### Circuito de Thevenin
 
@@ -64,6 +71,10 @@
 ![calculosR5](https://user-images.githubusercontent.com/93224166/148433138-d57a945c-abc3-4f31-9b16-dfdcd199912a.png)
 ![circuitoThevenin,corriente](https://user-images.githubusercontent.com/93224166/148402004-e49c4471-d47f-47d9-aff7-78573dc3f388.png)
 ![circuitoThevenin,voltaje](https://user-images.githubusercontent.com/93224166/148402006-11e31f8e-17bd-4960-b1f4-2d35ad407716.png)
+
+
+
+
 
 
 

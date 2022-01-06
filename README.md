@@ -72,6 +72,17 @@
 ![circuitoThevenin,corriente](https://user-images.githubusercontent.com/93224166/148402004-e49c4471-d47f-47d9-aff7-78573dc3f388.png)
 ![circuitoThevenin,voltaje](https://user-images.githubusercontent.com/93224166/148402006-11e31f8e-17bd-4960-b1f4-2d35ad407716.png)
 
+### CALCULO DE ERROR
+#### Calculo de la resistencia de thevenin, voltaje de thevenin
+![error1](https://user-images.githubusercontent.com/93224166/148440708-c7e5ce5c-737b-4af1-bf26-425198dce44c.png)
+
+#### Calculo de la intensidad, voltaje de la resistencia R5
+![error2](https://user-images.githubusercontent.com/93224166/148440710-0fb4b7bd-5d0f-4256-87ff-3a75768778c4.png)
+
+### Completacion de tablas
+#### Resistencia y voltaje de Thevenin
+
+#### Voltaje e Intensidad de R5
 
 
 

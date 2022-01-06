@@ -1,4 +1,20 @@
 # LABORATORIO-5
+*INTEGRANTES*
+
+1. Araque Jaime
+2. ALEXANDER BALLESTEROS
+3. Morales Kevin
+
+*NRC: 10149*
+### TEMA: Circuitos en serie y Paralelo
+## 1. Objetivos
+### Objetivo general
+### objetivos especificos
+## 2. Marco teorico
+## 3. Explicacion y Resolucion de ejercicios o Problemas
+## 4. Video 
+## 5. Conclusiones
+## 6. Bibliografia
 
 ![1](https://user-images.githubusercontent.com/93928146/148095149-e8efa8ac-18f6-4efc-9a3a-91ee48068479.PNG)
 

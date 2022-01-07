@@ -10,7 +10,7 @@
 ## 1. Objetivos
 ### Objetivo general
 
-Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Thevenin en un circuito resistivo, para un mayor comprension del tema.  
+Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Thevenin en un circuito resistivo, para una mayor comprension del tema.  
 
 ### Objetivos especificos
 

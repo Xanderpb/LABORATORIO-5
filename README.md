@@ -112,7 +112,7 @@ Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Theve
 * Se demostro analiticamente los resultados y se evidencio una similitud con los resultados medidos en tinkercad
 ## 6. Bibliografia
 
-
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007
 
 
 

@@ -82,6 +82,8 @@
 ### Completacion de tablas
 #### Resistencia y voltaje de Thevenin
 
+![lab5](https://user-images.githubusercontent.com/93951775/148548380-d7a36b3d-03ea-44e7-ad8b-87f9adc0fb2f.JPG)
+
 #### Voltaje e Intensidad de R5
 
 

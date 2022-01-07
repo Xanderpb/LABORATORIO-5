@@ -106,6 +106,7 @@ Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Theve
 
 
 ## 4. Video 
+https://youtu.be/mX9O1DaK5Qk
 ## 5. Conclusiones
 * El voltaje y la corriente de la resitencia r5 son los mismos tanto en el circuito original como en el circuito equivalente de thevenin
 * Para calcular el voltaje de Thevenin podemos utilizar varios metodos vistos anteriormente.

@@ -9,7 +9,16 @@
 ### TEMA: Circuitos en serie y Paralelo
 ## 1. Objetivos
 ### Objetivo general
+
+Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Thevenin en un circuito resistivo.  
+
 ### objetivos especificos
+
+
+* Diseñar el circuito en tintercad
+* Medir el voltaje y la corriente de thevenin
+* comparar resultados analiticos con los de tintercad
+* Sacar conclusiones 
 ## 2. Marco teorico
 
 ![map8 5](https://user-images.githubusercontent.com/93224166/148436127-fe630f39-7583-4297-8372-406397ad453f.png)

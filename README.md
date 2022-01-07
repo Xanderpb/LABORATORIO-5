@@ -10,14 +10,15 @@
 ## 1. Objetivos
 ### Objetivo general
 
-Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Thevenin en un circuito resistivo.  
+Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Thevenin en un circuito resistivo, para un mayor comprension del tema.  
 
-### objetivos especificos
+### Objetivos especificos
 
 
-* Diseñar el circuito en tintercad
+* Diseñar el circuito en tinkercad
+* Calcular analiticamente la intensidad y voltaje de la resistencia R5
 * Medir el voltaje y la corriente de thevenin
-* comparar resultados analiticos con los de tintercad
+* Comparar resultados analiticos con los medidos en tinkercad
 * Sacar conclusiones 
 ## 2. Marco teorico
 
@@ -89,11 +90,13 @@ Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Theve
 ![error2](https://user-images.githubusercontent.com/93224166/148440710-0fb4b7bd-5d0f-4256-87ff-3a75768778c4.png)
 
 ### Completacion de tablas
+
+![tabla,thevenin](https://user-images.githubusercontent.com/93224166/148550686-513c21a5-7667-4c3f-9e0b-8955e33fb413.png)
+
 #### Resistencia y voltaje de Thevenin
 
-![lab5](https://user-images.githubusercontent.com/93951775/148548380-d7a36b3d-03ea-44e7-ad8b-87f9adc0fb2f.JPG)
+![tabla,mediciones](https://user-images.githubusercontent.com/93224166/148550691-c73b71dc-ef67-4142-969e-49a07c581ab4.png)
 
-#### Voltaje e Intensidad de R5
 
 
 
@@ -104,10 +107,9 @@ Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Theve
 
 ## 4. Video 
 ## 5. Conclusiones
-
-* con este laboratio concluimos que el voltaje y la corriente de la resitencia r5 son los mismos en el circuito normal con el circuito de thevenin
-* Se demostro analiticamente los resultados y se evidencio una similitud con los resultados medidos en tintercad
-
+* El voltaje y la corriente de la resitencia r5 son los mismos tanto en el circuito original como en el circuito equivalente de thevenin
+* Para calcular el voltaje de Thevenin podemos utilizar varios metodos vistos anteriormente.
+* Se demostro analiticamente los resultados y se evidencio una similitud con los resultados medidos en tinkercad
 ## 6. Bibliografia
 
 

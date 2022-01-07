@@ -104,6 +104,10 @@ Comprobar experimentalmente y mediate  laboratorios vituales el teorema de Theve
 
 ## 4. Video 
 ## 5. Conclusiones
+
+* con este laboratio concluimos que el voltaje y la corriente de la resitencia r5 son los mismos en el circuito normal con el circuito de thevenin
+* Se demostro analiticamente los resultados y se evidencio una similitud con los resultados medidos en tintercad
+
 ## 6. Bibliografia
 
 
